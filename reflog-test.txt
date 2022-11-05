@@ -1,1 +1,5 @@
 hello this is done to test the reflog command of git.
+q
+w
+e
+r
